@@ -47,7 +47,8 @@ font-size: 15px;
 .container-right{
     width: 70%;
     height: auto;
-    background-color:wheat;
+    /* background-color:rgb(184, 184, 128); */
+    background: linear-gradient(to bottom , white -10%, rgb(212, 212, 100) 50%, rgb(199, 199, 46) 100%);
     float: left;
 }
 .container-right-icon img{
@@ -116,7 +117,7 @@ height: 280px;
 
 }
 .container-right-content-part-box-info span{
-    color: orange;
+    color: red;
     font-size: 18px;
     margin-top: -5px;
     font-weight: bold;

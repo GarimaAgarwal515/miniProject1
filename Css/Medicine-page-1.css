@@ -4,6 +4,12 @@
     height: 3900px;
 
 }
+#container-news{
+    background-color:rgb(228, 213, 213);
+    /* width: 90%; */
+    height: 1800px !important;
+    /* margin:0 auto */
+}
 .container-heading{
     margin-left: 15px;
     padding-top: 20px;
